@@ -1,6 +1,6 @@
-# ggplot
+# ggplot2
 
-ggplot is data visualization package in R programming that can be used to make different kind of plot. In R studio, library(ggplot2) can be used to load the package. 
+ggplot2 is data visualization package in R programming that can be used to make different kind of plot. In R studio, library(ggplot2) can be used to load the package. 
 
 
 # Data visualization
